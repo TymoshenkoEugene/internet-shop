@@ -14,6 +14,7 @@ public class InternetshopApplicationTests {
 	@Test
 	public void contextLoads() {
 		assertTrue(true);
+
 	}
 
 }
